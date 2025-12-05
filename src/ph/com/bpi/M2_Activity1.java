@@ -10,6 +10,9 @@ public class M2_Activity1 {
 		
 		Tree tree = new Tree();
 		tree.treeName();
+		
+		House house = new House();
+		house.streetName();
 	}
 
 }
